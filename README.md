@@ -20,6 +20,7 @@ This repository contains all kind of links which I found in my daily work routin
     * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
     * [Android BitmapCache](https://github.com/chrisbanes/Android-BitmapCache) - Android-BitmapCache is a specialised cache, for use with Android Bitmap objects.
     * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling 
+    * [BlurShadowImageView] (https://github.com/DaxeshV/BlurShadowImageView) - This library provides blurred drop shadows to ImageView similar to iOS image backdrop shadows.
      
      
   * Special Dialog
